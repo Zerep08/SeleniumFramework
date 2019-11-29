@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="103" started-at="2019-06-14T18:50:46Z" finished-at="2019-06-14T18:50:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="103" started-at="2019-06-14T18:50:46Z" finished-at="2019-06-14T18:50:46Z">
+      <class name="com.testNG.demo.TestAnnotationTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testNG.demo.TestAnnotationTest@4883b407]" name="setup" is-config="true" duration-ms="23" started-at="2019-06-14T18:50:46Z" finished-at="2019-06-14T18:50:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="aTestMethod()[pri:0, instance:com.testNG.demo.TestAnnotationTest@4883b407]" name="aTestMethod" duration-ms="18" started-at="2019-06-14T18:50:46Z" finished-at="2019-06-14T18:50:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTestMethod -->
+        <test-method status="PASS" signature="bTestMethod()[pri:0, instance:com.testNG.demo.TestAnnotationTest@4883b407]" name="bTestMethod" duration-ms="6" started-at="2019-06-14T18:50:46Z" finished-at="2019-06-14T18:50:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTestMethod -->
+        <test-method status="PASS" signature="zTestMethod()[pri:0, instance:com.testNG.demo.TestAnnotationTest@4883b407]" name="zTestMethod" duration-ms="7" started-at="2019-06-14T18:50:46Z" finished-at="2019-06-14T18:50:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zTestMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testNG.demo.TestAnnotationTest@4883b407]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-06-14T18:50:46Z" finished-at="2019-06-14T18:50:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testNG.demo.TestAnnotationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
